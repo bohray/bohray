@@ -1,53 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Yash Bohra 👋
 
-<!--
-**bohray/bohray** is a ✨ _special_ ✨ repository becaus# Hi there, I'm [Your Name] 👋
+I'm a **Frontend Engineer** who’s passionate about crafting engaging, accessible, and performant user interfaces. I enjoy diving into backend occasionally and am always excited to collaborate on **full-stack or frontend projects**.
 
-Welcome to my GitHub profile!
+---
 
-## 💻 About Me
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on: [Project or technology you're working with]
-- 🌱 I’m currently learning: [Languages, frameworks, or tools you're learning]
-- 👯 I’m looking to collaborate on: [Open source projects, freelance, startups, etc.]
-- 🤔 I’m looking for help with: [Optional – anything you're stuck on or exploring]
-- 💬 Ask me about: [Tech stack, past experience, hobbies, etc.]
-- 📫 How to reach me: [Email, LinkedIn, portfolio, etc.]
-- 😄 Pronouns: [Your pronouns]
-- ⚡ Fun fact: [Something interesting about you]
+### Languages & Markup  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-## 🛠️ Tech Stack
+### Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
-![Languages](https://img.shields.io/badge/-Languages-333333?style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-<!-- Add more as needed -->
+### Backend / Database  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## 📈 GitHub Stats
+---
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=contribs&count_private=true&theme=default)
+## 🤝 Let’s Connect
 
-<!-- Optional: GitHub streaks or languages -->
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default) -->
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default) -->
+- 📫 Email: [youremail@example.com](mailto:youremail@example.com)
+- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
-## 📫 Let's Connect
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+<!-- Optionally you can include a quote, personal mission, or GitHub streaks later -->
 
-<!-- You can also add badges, achievements, dev.to/blog links, etc. -->
-e its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
